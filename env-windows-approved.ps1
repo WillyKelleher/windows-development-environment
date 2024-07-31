@@ -83,6 +83,7 @@ choco install openssh --yes
 choco install mremoteng --yes
 choco install gpg4win --yes
 choco install rufus --yes
+choco install crystaldiskinfo --yes
 
 
 Update-Environment-Path
