@@ -82,6 +82,7 @@ choco install putty --yes
 choco install openssh --yes
 choco install mremoteng --yes
 choco install gpg4win --yes
+choco install rufus --yes
 
 
 Update-Environment-Path
