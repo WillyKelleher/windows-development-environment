@@ -29,7 +29,7 @@ choco install 7zip --yes
 choco install notepadplusplus --yes
 
 # Browsers
-choco install googlechrome --yes
+choco install googlechrome --yes --ignore-checksums
 choco install firefox --yes
 
 # Misc
