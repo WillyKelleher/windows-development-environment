@@ -34,6 +34,7 @@ choco install firefox --yes
 
 # Misc
 choco install crystaldiskinfo --yes
+choco install slack --yes
 
 Update-Environment-Path
 
