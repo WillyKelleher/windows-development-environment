@@ -27,6 +27,7 @@ Get-Command -Module Microsoft.PowerShell.Archive
 # File Management
 choco install 7zip --yes
 choco install notepadplusplus --yes
+choco install wiztree --yes
 
 # Browsers
 choco install googlechrome --yes --ignore-checksums
@@ -36,6 +37,7 @@ choco install firefox --yes
 choco install crystaldiskinfo --yes
 choco install slack --yes
 choco install zoom --yes
+choco install adobereader --yes
 
 Update-Environment-Path
 
