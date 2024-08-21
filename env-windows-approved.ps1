@@ -73,7 +73,7 @@ choco install winscp --yes
 #choco install kdiff3 --yes
 
 # Browsers
-choco install googlechrome --yes
+choco install googlechrome --yes --ignore-checksums
 choco install firefox --yes
 
 # Misc
