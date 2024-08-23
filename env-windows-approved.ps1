@@ -70,6 +70,7 @@ choco install 7zip --yes
 choco install notepadplusplus --yes
 choco install filezilla --yes
 choco install winscp --yes
+choco install wiztree --yes
 #choco install kdiff3 --yes
 
 # Browsers
