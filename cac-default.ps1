@@ -38,6 +38,7 @@ choco install crystaldiskinfo --yes
 choco install slack --yes
 choco install zoom --yes
 choco install adobereader --yes
+choco install office365business --yes
 
 Update-Environment-Path
 
